@@ -24,3 +24,5 @@ class App extends React.Component {
 }
 
 export default App;
+
+// 브런치 테스트용 
